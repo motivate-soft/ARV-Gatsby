@@ -17,6 +17,6 @@ It follows the [JAMstack architecture](https://jamstack.org) by using Git as a s
 * [Gatsby CLI](https://www.gatsbyjs.org/docs/)
 
 ### Dependencies
-Can be found here: https://github.com/GatsboyWeb/ARV/network/dependencies
+Can be found here: https://github.com/robert-upwork/ARV/network/dependencies
 
 <br><br>
